@@ -1,5 +1,5 @@
 {
-    "name": "raftx24/healthy",
+    "name": "raftx24/healthy_lumen",
     "description": "Check Health of our microservices",
     "type": "library",
     "authors": [
